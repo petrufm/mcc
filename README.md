@@ -5,5 +5,5 @@ This reverse engineering tool extracts design information from C++ source code p
 
 Requirements
 * C++ compiler (e.g., TDM-GCC compiler http://tdm-gcc.tdragon.net/)
-* The system depents on a non-public third-party library that we do NOT distribute
+* The system depends on a non-public third-party library that we do NOT distribute
 * (optional) Eclipse for C++ since an Eclipse project is already provided with the tool
